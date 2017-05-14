@@ -24,7 +24,13 @@ h1 {
   font-size: 10px;
 }
 
+
+
 .img {
   display: flex;
   flex-wrap: wrap;
+}
+
+div {
+  margin-top: 3px;
 }
