@@ -35,3 +35,8 @@ figcaption {
   font-size: 15px;
   text-align: center;
 }
+
+
+
+
+#success_message{ display: none;}
