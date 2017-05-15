@@ -36,7 +36,8 @@ figcaption {
   text-align: center;
 }
 
-
-
+map iframe {
+  width: 100%;
+}
 
 #success_message{ display: none;}
