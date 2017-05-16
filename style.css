@@ -1,7 +1,10 @@
+
+/*****************Logo****************/
+
 img {
   width: 10px;
 }
-
+/********Debut Headre**********/
 #header {
   display: flex;
   position: sticky;
@@ -10,7 +13,7 @@ img {
   background-color: white;
   box-shadow: 0 0 12px
 }
-
+/*******************Fin Header*****************/
 span {
   border-color: rgb(204, 204, 204);
   text-decoration: none;
@@ -31,12 +34,13 @@ h1 {
   display: flex;
   flex-wrap: wrap;
 }
-
+/*************Ajout de map********************/
 
 map iframe {
   width: 100%;
 }
 
+/************Article avec bordure******************/
 
 article {
   font-size:20px;
@@ -52,11 +56,11 @@ h1 {
   font-size: 2em;
   margin: 0 0 .5em;
 }
-
+/******************Paragraph dans blog***************/
 p {
   font-size: 1em;
   margin: 0;
   line-height: 1.618em;
 }
-
+/****************Css Formulaire contact************/
 #success_message{ display: none;}
